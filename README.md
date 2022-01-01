@@ -15,7 +15,7 @@ Index of repositories:
 |[killr](https://github.com/aaviator42/killr) | Remote killswitch for Windows machines |
 
 
-There's also a bunch of other projects on this account, see them all [here](https://github.com/aaviator42?tab=repositories).
+There are also a bunch of other projects on here, see them all [here](https://github.com/aaviator42?tab=repositories).
 
 
 
