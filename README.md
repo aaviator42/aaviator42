@@ -5,6 +5,7 @@ Index of repositories:
 |Repository|Description|
 |-----|--------|
 |[StorX](https://github.com/aaviator42/StorX) | Simple (but robust!) PHP key-value flat-file data storage library |
+|[izi](https://github.com/aaviator42/izi) | Self-hosted file sharing and management system |
 |[Cha](https://github.com/aaviator42/Cha) | A proof-of-concept search engine for structured (tagged) data |
 |[Numa](https://github.com/aaviator42/Numa) | PHP functions for dealing with numerical data |
 |[StorX-API](https://github.com/aaviator42/StorX-API) | A REST API for StorX |
