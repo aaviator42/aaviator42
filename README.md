@@ -6,8 +6,10 @@ Index of repositories:
 |-----|--------|
 |[StorX](https://github.com/aaviator42/StorX) | Simple (but robust!) PHP key-value flat-file data storage library |
 |[izi](https://github.com/aaviator42/izi) | Self-hosted file sharing and management system |
-|[dSearch](https://github.com/aaviator42/dSearch) | A simple but powerful full-text search engine |
+|[dSearch](https://github.com/aaviator42/dSearch) | A simple but powerful full-text search engine (forward index) |
+|[iSearch](https://github.com/aaviator42/iSearch) | A simple but powerful full-text search engine (inverted index) |
 |[Cha](https://github.com/aaviator42/Cha) | A proof-of-concept search engine for structured (tagged) data |
+|[the-grid](https://github.com/aaviator42/the-grid) |  Online collaborative pixel grid canvas |
 |[Numa](https://github.com/aaviator42/Numa) | PHP functions for dealing with numerical data |
 |[StorX-API](https://github.com/aaviator42/StorX-API) | A REST API for StorX |
 |[StorX-Remote](https://github.com/aaviator42/StorX-Remote) | API client library for StorX-API |
