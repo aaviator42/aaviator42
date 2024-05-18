@@ -16,9 +16,13 @@ Index of repositories:
 |[Sesher](https://github.com/aaviator42/Sesher) | Simple library for secure PHP session handling |
 |[Zaap](https://github.com/aaviator42/Zaap) | PHP REST API template for easy and rapid API development |
 |[ZaapRemote](https://github.com/aaviator42/ZaapRemote) | Easily make API requests from PHP |
+|[hwstats](https://github.com/aaviator42/hwstats) | Monitor server hardware status over HTTP |
+|[dirUtils](https://github.com/aaviator42/dirUtils) | PHP functions for working with directories |
 |[simRaid1](https://github.com/aaviator42/simRaid1) | Easily implement a RAID1-like configuration on Windows machines |
 |[weebu](https://github.com/aaviator42/weebu) | Remotely deploy commands to multiple Windows machines simultaneously |
 |[killr](https://github.com/aaviator42/killr) | Remote killswitch for Windows machines |
+|[webmon](https://github.com/aaviator42/webmon) | Scripts to monitor web resources |
+
 
 
 There are also a bunch of other projects on here, [see them all](https://github.com/aaviator42?tab=repositories).
