@@ -8,6 +8,7 @@ Index of repositories:
 |[izi](https://github.com/aaviator42/izi) | Self-hosted file sharing and management system |
 |[dSearch](https://github.com/aaviator42/dSearch) | A simple but powerful full-text search engine (forward index) |
 |[iSearch](https://github.com/aaviator42/iSearch) | A simple but powerful full-text search engine (inverted index) |
+|[captchaX](https://github.com/aaviator42/captchaX) | An advanced CAPTCHA generation library |
 |[Cha](https://github.com/aaviator42/Cha) | A proof-of-concept search engine for structured (tagged) data |
 |[the-grid](https://github.com/aaviator42/the-grid) |  Online collaborative pixel grid canvas |
 |[Numa](https://github.com/aaviator42/Numa) | PHP functions for dealing with numerical data |
