@@ -25,7 +25,7 @@ Index of repositories:
 |[webmon](https://github.com/aaviator42/webmon) | Scripts to monitor web resources |
 
 
-There are dozens more projects of mine on here, [see them all](https://github.com/aaviator42?tab=repositories).
+There are dozens more of my projects on here, [see them all](https://github.com/aaviator42?tab=repositories).
 
 
 
