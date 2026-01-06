@@ -1,4 +1,4 @@
-Hi, I’m @aaviator42. I make cool stuff. Check out my repos! 
+Hi, I’m @aaviator42. I like to create tools and libraries. Check out my repos! 
 
 Index of repositories:
 
